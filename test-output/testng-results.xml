@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-30T17:19:50 IST" name="Suite" finished-at="2023-12-30T17:21:47 IST" duration-ms="117472">
+    <groups>
+    </groups>
+    <test started-at="2023-12-30T17:19:50 IST" name="Test" finished-at="2023-12-30T17:21:47 IST" duration-ms="117472">
+      <class name="com.Amazon.TestScripts.TestCase6">
+        <test-method is-config="true" signature="reports()[pri:0, instance:com.Amazon.TestScripts.TestCase6@38425407]" started-at="2023-12-30T17:20:39 IST" name="reports" finished-at="2023-12-30T17:20:39 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reports -->
+        <test-method is-config="true" signature="launch()[pri:0, instance:com.Amazon.TestScripts.TestCase6@38425407]" started-at="2023-12-30T17:20:39 IST" name="launch" finished-at="2023-12-30T17:20:41 IST" duration-ms="1990" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method signature="TC6()[pri:0, instance:com.Amazon.TestScripts.TestCase6@38425407]" started-at="2023-12-30T17:20:41 IST" name="TC6" finished-at="2023-12-30T17:20:47 IST" duration-ms="5853" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC6 -->
+        <test-method is-config="true" signature="teardwn()[pri:0, instance:com.Amazon.TestScripts.TestCase6@38425407]" started-at="2023-12-30T17:20:47 IST" name="teardwn" finished-at="2023-12-30T17:20:47 IST" duration-ms="177" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardwn -->
+      </class> <!-- com.Amazon.TestScripts.TestCase6 -->
+      <class name="com.Amazon.TestScripts.TestCase5">
+        <test-method is-config="true" signature="reports()[pri:0, instance:com.Amazon.TestScripts.TestCase5@54d9d12d]" started-at="2023-12-30T17:20:31 IST" name="reports" finished-at="2023-12-30T17:20:31 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reports -->
+        <test-method is-config="true" signature="launch()[pri:0, instance:com.Amazon.TestScripts.TestCase5@54d9d12d]" started-at="2023-12-30T17:20:31 IST" name="launch" finished-at="2023-12-30T17:20:33 IST" duration-ms="1789" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method signature="TC5()[pri:0, instance:com.Amazon.TestScripts.TestCase5@54d9d12d]" started-at="2023-12-30T17:20:33 IST" name="TC5" finished-at="2023-12-30T17:20:39 IST" duration-ms="6377" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC5 -->
+        <test-method is-config="true" signature="teardwn()[pri:0, instance:com.Amazon.TestScripts.TestCase5@54d9d12d]" started-at="2023-12-30T17:20:39 IST" name="teardwn" finished-at="2023-12-30T17:20:39 IST" duration-ms="212" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardwn -->
+      </class> <!-- com.Amazon.TestScripts.TestCase5 -->
+      <class name="com.Amazon.TestScripts.TestCase4">
+        <test-method is-config="true" signature="reports()[pri:0, instance:com.Amazon.TestScripts.TestCase4@3c41ed1d]" started-at="2023-12-30T17:20:25 IST" name="reports" finished-at="2023-12-30T17:20:25 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reports -->
+        <test-method is-config="true" signature="launch()[pri:0, instance:com.Amazon.TestScripts.TestCase4@3c41ed1d]" started-at="2023-12-30T17:20:25 IST" name="launch" finished-at="2023-12-30T17:20:27 IST" duration-ms="1984" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method signature="TC4()[pri:0, instance:com.Amazon.TestScripts.TestCase4@3c41ed1d]" started-at="2023-12-30T17:20:27 IST" name="TC4" finished-at="2023-12-30T17:20:31 IST" duration-ms="3986" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC4 -->
+        <test-method is-config="true" signature="teardwn()[pri:0, instance:com.Amazon.TestScripts.TestCase4@3c41ed1d]" started-at="2023-12-30T17:20:31 IST" name="teardwn" finished-at="2023-12-30T17:20:31 IST" duration-ms="192" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardwn -->
+      </class> <!-- com.Amazon.TestScripts.TestCase4 -->
+      <class name="com.Amazon.TestScripts.TestCase3">
+        <test-method is-config="true" signature="reports()[pri:0, instance:com.Amazon.TestScripts.TestCase3@34e9fd99]" started-at="2023-12-30T17:20:00 IST" name="reports" finished-at="2023-12-30T17:20:00 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reports -->
+        <test-method is-config="true" signature="launch()[pri:0, instance:com.Amazon.TestScripts.TestCase3@34e9fd99]" started-at="2023-12-30T17:20:00 IST" name="launch" finished-at="2023-12-30T17:20:02 IST" duration-ms="1957" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method signature="TC3()[pri:0, instance:com.Amazon.TestScripts.TestCase3@34e9fd99]" started-at="2023-12-30T17:20:02 IST" name="TC3" finished-at="2023-12-30T17:20:25 IST" duration-ms="22579" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC3 -->
+        <test-method is-config="true" signature="teardwn()[pri:0, instance:com.Amazon.TestScripts.TestCase3@34e9fd99]" started-at="2023-12-30T17:20:25 IST" name="teardwn" finished-at="2023-12-30T17:20:25 IST" duration-ms="181" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardwn -->
+      </class> <!-- com.Amazon.TestScripts.TestCase3 -->
+      <class name="com.Amazon.TestScripts.TestCase2">
+        <test-method is-config="true" signature="reports()[pri:0, instance:com.Amazon.TestScripts.TestCase2@45752059]" started-at="2023-12-30T17:19:56 IST" name="reports" finished-at="2023-12-30T17:19:56 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reports -->
+        <test-method is-config="true" signature="launch()[pri:0, instance:com.Amazon.TestScripts.TestCase2@45752059]" started-at="2023-12-30T17:19:56 IST" name="launch" finished-at="2023-12-30T17:19:58 IST" duration-ms="2062" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method signature="TC2()[pri:0, instance:com.Amazon.TestScripts.TestCase2@45752059]" started-at="2023-12-30T17:19:58 IST" name="TC2" finished-at="2023-12-30T17:20:00 IST" duration-ms="1959" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC2 -->
+        <test-method is-config="true" signature="teardwn()[pri:0, instance:com.Amazon.TestScripts.TestCase2@45752059]" started-at="2023-12-30T17:20:00 IST" name="teardwn" finished-at="2023-12-30T17:20:00 IST" duration-ms="259" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardwn -->
+      </class> <!-- com.Amazon.TestScripts.TestCase2 -->
+      <class name="com.Amazon.TestScripts.TestCase1">
+        <test-method is-config="true" signature="reports()[pri:0, instance:com.Amazon.TestScripts.TestCase1@557caf28]" started-at="2023-12-30T17:19:50 IST" name="reports" finished-at="2023-12-30T17:19:50 IST" duration-ms="203" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reports -->
+        <test-method is-config="true" signature="launch()[pri:0, instance:com.Amazon.TestScripts.TestCase1@557caf28]" started-at="2023-12-30T17:19:50 IST" name="launch" finished-at="2023-12-30T17:19:53 IST" duration-ms="3522" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method signature="TC1()[pri:0, instance:com.Amazon.TestScripts.TestCase1@557caf28]" started-at="2023-12-30T17:19:53 IST" name="TC1" finished-at="2023-12-30T17:19:55 IST" duration-ms="1988" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC1 -->
+        <test-method is-config="true" signature="teardwn()[pri:0, instance:com.Amazon.TestScripts.TestCase1@557caf28]" started-at="2023-12-30T17:19:55 IST" name="teardwn" finished-at="2023-12-30T17:19:56 IST" duration-ms="401" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardwn -->
+      </class> <!-- com.Amazon.TestScripts.TestCase1 -->
+      <class name="com.Amazon.TestScripts.DefectTestCase">
+        <test-method is-config="true" signature="reports()[pri:0, instance:com.Amazon.TestScripts.DefectTestCase@40a4337a]" started-at="2023-12-30T17:21:02 IST" name="reports" finished-at="2023-12-30T17:21:02 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reports -->
+        <test-method is-config="true" signature="launch()[pri:0, instance:com.Amazon.TestScripts.DefectTestCase@40a4337a]" started-at="2023-12-30T17:21:02 IST" name="launch" finished-at="2023-12-30T17:21:04 IST" duration-ms="1805" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method signature="defect()[pri:0, instance:com.Amazon.TestScripts.DefectTestCase@40a4337a]" started-at="2023-12-30T17:21:04 IST" name="defect" finished-at="2023-12-30T17:21:47 IST" duration-ms="42578" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- defect -->
+        <test-method is-config="true" signature="teardwn()[pri:0, instance:com.Amazon.TestScripts.DefectTestCase@40a4337a]" started-at="2023-12-30T17:21:47 IST" name="teardwn" finished-at="2023-12-30T17:21:47 IST" duration-ms="207" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardwn -->
+      </class> <!-- com.Amazon.TestScripts.DefectTestCase -->
+      <class name="com.Amazon.TestScripts.TestCase9">
+        <test-method is-config="true" signature="reports()[pri:0, instance:com.Amazon.TestScripts.TestCase9@6a6cb05c]" started-at="2023-12-30T17:20:55 IST" name="reports" finished-at="2023-12-30T17:20:55 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reports -->
+        <test-method is-config="true" signature="launch()[pri:0, instance:com.Amazon.TestScripts.TestCase9@6a6cb05c]" started-at="2023-12-30T17:20:55 IST" name="launch" finished-at="2023-12-30T17:20:57 IST" duration-ms="1709" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method signature="TC9()[pri:0, instance:com.Amazon.TestScripts.TestCase9@6a6cb05c]" started-at="2023-12-30T17:20:57 IST" name="TC9" finished-at="2023-12-30T17:21:02 IST" duration-ms="5375" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC9 -->
+        <test-method is-config="true" signature="teardwn()[pri:0, instance:com.Amazon.TestScripts.TestCase9@6a6cb05c]" started-at="2023-12-30T17:21:02 IST" name="teardwn" finished-at="2023-12-30T17:21:02 IST" duration-ms="145" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardwn -->
+      </class> <!-- com.Amazon.TestScripts.TestCase9 -->
+      <class name="com.Amazon.TestScripts.TestCase8">
+        <test-method is-config="true" signature="reports()[pri:0, instance:com.Amazon.TestScripts.TestCase8@702657cc]" started-at="2023-12-30T17:20:52 IST" name="reports" finished-at="2023-12-30T17:20:52 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reports -->
+        <test-method is-config="true" signature="launch()[pri:0, instance:com.Amazon.TestScripts.TestCase8@702657cc]" started-at="2023-12-30T17:20:52 IST" name="launch" finished-at="2023-12-30T17:20:54 IST" duration-ms="1666" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method signature="TC8()[pri:0, instance:com.Amazon.TestScripts.TestCase8@702657cc]" started-at="2023-12-30T17:20:54 IST" name="TC8" finished-at="2023-12-30T17:20:55 IST" duration-ms="1534" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC8 -->
+        <test-method is-config="true" signature="teardwn()[pri:0, instance:com.Amazon.TestScripts.TestCase8@702657cc]" started-at="2023-12-30T17:20:55 IST" name="teardwn" finished-at="2023-12-30T17:20:55 IST" duration-ms="141" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardwn -->
+      </class> <!-- com.Amazon.TestScripts.TestCase8 -->
+      <class name="com.Amazon.TestScripts.TestCase7">
+        <test-method is-config="true" signature="reports()[pri:0, instance:com.Amazon.TestScripts.TestCase7@43bc63a3]" started-at="2023-12-30T17:20:47 IST" name="reports" finished-at="2023-12-30T17:20:47 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reports -->
+        <test-method is-config="true" signature="launch()[pri:0, instance:com.Amazon.TestScripts.TestCase7@43bc63a3]" started-at="2023-12-30T17:20:47 IST" name="launch" finished-at="2023-12-30T17:20:49 IST" duration-ms="2073" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method signature="TC7()[pri:0, instance:com.Amazon.TestScripts.TestCase7@43bc63a3]" started-at="2023-12-30T17:20:49 IST" name="TC7" finished-at="2023-12-30T17:20:52 IST" duration-ms="2283" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC7 -->
+        <test-method is-config="true" signature="teardwn()[pri:0, instance:com.Amazon.TestScripts.TestCase7@43bc63a3]" started-at="2023-12-30T17:20:52 IST" name="teardwn" finished-at="2023-12-30T17:20:52 IST" duration-ms="163" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardwn -->
+      </class> <!-- com.Amazon.TestScripts.TestCase7 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
